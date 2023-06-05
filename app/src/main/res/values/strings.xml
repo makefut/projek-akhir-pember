@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Wisata</string>
+    <string name="home">Home</string>
+    <string name="explore">Detail</string>
+    <string name="library">Profil</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Wisata_title">Nama Wisata</string>
+    <string name="Wisata_Detail">Detail Wisata</string>
+
+    <string name="bajo">bajo</string>
+    <string name="bintan">Bintan</string>
+    <string name="bromo">bromo</string>
+    <string name="danautoba">Danau Toba</string>
+    <string name="gili">Gili Labak</string>
+    <string name="kelimutu">Kelimutu</string>
+    <string name="lombok">lombok</string>
+    <string name="pulaukomodo">Pulau Komodo</string>
+    <string name="rajaampat">Raja Ampat</string>
+    <string name="sumba">Sumba</string>
+    <string name="waraebo">Waraebo</string>
+
+</resources>
